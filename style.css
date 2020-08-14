@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://png.pngtree.com/back_origin_pic/03/75/00/77f5aa5182f397f702648f64dc340ec1.jpg");
+    color: azure;
+    text-align: center;
+}
+
+#beerOutput {
+    text-align: -webkit-center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    background-color: rgb(156, 100, 73);
+    text-align: center;
+}
+
+#buttonNext {
+    margin-top: 20px;
+}
+
+th, td {
+    width: 200px;
+}
+
+th {
+    text-transform: uppercase;
+}
